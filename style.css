@@ -1,0 +1,122 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#sayfa{
+    width: 900px;
+    min-height: 600px;
+    border: solid 1px;
+    margin: auto;
+}
+#banner{
+    width: 898px;
+    height: 100px;
+    border-style: dotted;
+    margin: auto;
+    background-color:black ;
+   
+    border-width: 1px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    border-style: dotted;
+    border-width: 1px;
+    background-color: white;
+    float: left;
+}
+#sosyal{
+    width: 310px;
+    height: 20px;
+    background-color: white;
+    border-style: dotted;
+    border-width: 1px;
+    float:right  ;
+    position: relative;
+    top: 50px;
+    right: 10px;
+
+   
+}
+#resim{
+    width: 100px;
+    height:100px;
+}
+#ınstagram{
+    width: 100px;
+    height: 50px; 
+}
+#face{
+    width: 100px;
+    height: 50px; 
+}
+#twıtter{
+    width: 100px;
+    height: 50px; 
+}
+#anamenu{
+    width: 898px;
+    height: 50px;
+    border-style: solid;
+    margin: auto;
+    background-color:red ;
+   
+    border-width: 1px; 
+}
+#anamenu ul{
+    list-style-type: none;
+
+}
+#anamenu ul li{
+    border-style: solid;
+    height: 20px;
+    width: 100px;
+    border-width: 3px;
+    border-radius: 8px;
+    background-color: white;
+    float: left;
+    padding: 10px;
+    margin-left: 10px;
+    text-align: center;
+}
+#anamenu ul a:link{
+    color: red;
+}
+#icerik{
+    width: 650px;
+    height: 350px;
+    border-style: solid;
+    background-color: aquamarine;
+    float:left
+
+
+}
+#yanmenu{
+    width: 238px;
+    height: 350px;
+    border-style: solid;
+    background-color: red;
+    float:left
+
+}
+#yanmenu p{
+    color: beige;
+}
+#icerik img{
+    width: 150px;
+    height: 150px;
+}
+#altmenu{
+    text-align: center;
+    background-color: red;
+}
+
+
+#altmenu a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    color: black;
+}
